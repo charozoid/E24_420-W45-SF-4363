@@ -19,10 +19,10 @@ Dans cet exercice, vous allez vous installer un environnement de test. Vous alle
 Vous devez remettre dans un document un comparatif entre la VM cliente et la VM serveur au niveau suivant : 
 | Item |    Valeur Client   | Valeur serveur
 | ---- |    -------------   | ---------------
-Processeur |           |
-Mémoire vive |
-Nb de processus |
-% utilisation des partitions
+Processeur |   2        | 9%
+Mémoire vive |  360mb | 360mb
+Nb de processus | 0 | 152
+% utilisation des partitions | 0% | 45%
 
 De plus, vous devez mettre dans votre document une capture d’écran de votre serveur avec un shell d’ouvert ayant les commandes suivantes exécutées à l'intérieur :
 
